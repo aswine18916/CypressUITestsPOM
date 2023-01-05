@@ -1,0 +1,9 @@
+{
+
+    "baseUrl": "https://swoopfunding.com",
+    "chromeWebSecurity": false,
+    "requestTimeout": 10000,
+    "screenshotOnRunFailure": true,
+    "skipCopyingScreenshots": true,
+    "video": false
+}

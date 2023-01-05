@@ -1,0 +1,12 @@
+{
+    "vehicletype": "Car",
+    "purchasePrice": 10000,
+    "borrowAmount": 3000,
+    "cashDepositAvailable": 3000,
+    "financeDuration": "2 years",
+    "totalTurnOver": 40000,
+    "accountancySoftware": "Clio",
+    "tradingDuration": "2-5 years",
+    "vatAmount": 50
+
+}
