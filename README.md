@@ -1,3 +1,4 @@
+Swoop
 To run the test in headless mode "npm run test:headless"
 
 Functionalities covered
